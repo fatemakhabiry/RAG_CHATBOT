@@ -1,0 +1,14 @@
+langchain
+python-dotenv
+langchain_community
+ipykernel
+streamlit
+langchain_core
+langchain_huggingface
+langchain_groq
+sentence-transformers
+pypdf
+faiss-cpu
+openai-whisper
+audio-recorder-streamlit
+pydub
